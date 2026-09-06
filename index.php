@@ -11,5 +11,8 @@
     <h1>Second Git Activity</h1>
     <p>This is the version 2 of the Activity.</p>   
 
+    <h1>Third Git Activity</h1>
+    <p>Version 3 update of the Activity.</p> 
+
 </body>
 </html>
