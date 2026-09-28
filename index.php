@@ -14,5 +14,8 @@
     <h1>Third Git Activity</h1>
     <p>Version 3 update of the Activity.</p> 
 
+    <h2>GitWorkshop Activity 2</h2>
+    <p>Remote Repositories and Branching with GitHub</p>
+
 </body>
 </html>
